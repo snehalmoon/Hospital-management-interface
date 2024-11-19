@@ -9,7 +9,7 @@ C Programming Language, Standard I/O for console interactions, File Handling for
 To run the Hospital Management System on your local machine, follow these steps:
 
 1. Clone the Repository:
-git clone https://github.com/snehalmoon/HospitalManage.git
+git clone https://github.com/snehalmoon/Hospital-management-interface.git
 
 2. Navigate to the Project Directory:
 cd HospitalManage
